@@ -7,8 +7,8 @@ Sou estudante de Ciência da Computação e Desenvolvedor web Front-end 🌐
 - ReactJS
 - Typescript
 - SASS
-<br>
-👨‍🎓 **O que estou fazendo atualmente?**
+
+**👨‍🎓 O que estou fazendo atualmente?** <br>
 
 Atualmente estou concluindo os estudos de ReactJS e Typescript.
 <br>
