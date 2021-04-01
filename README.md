@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Sou estudante de Ciência da Computação e desenvolvedor web front-end 🌐
+Sou estudante de Ciência da Computação e Desenvolvedor web Front-end 🌐
 
 **🔬 Linguagens e frameworks que conheço**
 - Javascript
@@ -18,7 +18,7 @@ Eu sei cozinhar um almoço gostoso sem usar coentro. PS: Coentro é ruim!
 
 ## English 🍁
 
-I'm a Computer Science student and front-end web developer 🌐
+I'm a Computer Science student and Front-end web Developer. 🌐
 
 **My skills**
 - Javascript
@@ -28,5 +28,4 @@ I'm a Computer Science student and front-end web developer 🌐
 
 **🔨 What I'm studying?**
 
-👨‍🎓 Currently I'm finishing my studies in ReactJS e Typescript;
-
+👨‍🎓 Currently, I'm finishing my studies in ReactJS and Typescript.
