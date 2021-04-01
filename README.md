@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Desenvolvedor WEB front-end 🌐
-___
+
 ### Linguagens e frameworks que conheço
 - Javascript
 - ReactJS
