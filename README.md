@@ -1,8 +1,7 @@
 ### Hi there 👋
-
 Desenvolvedor WEB front-end 🌐
 
-### Linguagens e frameworks que conheço
+**Linguagens e frameworks que conheço**
 - Javascript
 - ReactJS
 - Typescript 
@@ -14,9 +13,10 @@ Desenvolvedor WEB front-end 🌐
 
 Front-end web developer 🌐
 
-### My skills
+**My skills**
 - Javascript
 - ReactJS
 - Typescript
 
 👨‍🎓 Currently I'm studying ReactJS e Typescript;
+
