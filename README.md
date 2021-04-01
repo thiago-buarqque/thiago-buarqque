@@ -1,22 +1,30 @@
 ### Hi there 👋
-Desenvolvedor WEB front-end 🌐
+
+Estudante de Ciência da Computação e desenvolvedor web front-end 🌐
 
 **Linguagens e frameworks que conheço**
 - Javascript
 - ReactJS
-- Typescript 
+- Typescript
+- SASS
 
-👨‍🎓 Atualmente estou avançando nos estudos de ReactJS e Typescript. Estou à procura do meu primeiro emprego :D
+**O que estou fazendo atualmente?**
 
+👨‍🎓 Atualmente estou concluindo os estudos de ReactJS e Typescript.
+
+**Algo legal que sei fazer.**
+
+Eu sei cozinhar um almoço gostoso sem usar coentro. PS: Coentro é ruim!
 
 ## English 🍁
 
-Front-end web developer 🌐
+Computer Science student and front-end web developer 🌐
 
 **My skills**
 - Javascript
 - ReactJS
 - Typescript
+- SASS
 
 👨‍🎓 Currently I'm studying ReactJS e Typescript;
 
