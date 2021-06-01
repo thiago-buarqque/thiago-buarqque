@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 (English Version below)
 
 Sou estudante de Ciência da Computação e Desenvolvedor web Front-end 🌐
 
@@ -10,7 +10,7 @@ Sou estudante de Ciência da Computação e Desenvolvedor web Front-end 🌐
 
 **👨‍🎓 O que estou fazendo atualmente?** <br>
 
-Atualmente estou concluindo os estudos de ReactJS e Typescript.
+Atualmente estou concluindo os estudos em ReactJS e Typescript.
 <br>
 
 **🥣 Algo legal que sei fazer.**
@@ -20,7 +20,7 @@ Eu sei cozinhar um almoço gostoso sem usar coentro. PS: Coentro é ruim!
 
 ## English 🍁
 
-I'm a Computer Science student and Front-end web Developer. 🌐
+I'm a Computer Science student and Junior Front-end web Developer. 🌐
 
 **My skills**
 - Javascript
