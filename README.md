@@ -1,8 +1,8 @@
-### Hi there 👋 (English Version below)
+### Hi there 👋 (English version below)
 
 Sou estudante de Ciência da Computação e Desenvolvedor web Front-end 🌐
 
-**🔬 Linguagens e frameworks que conheço**
+**🔬 Linguagens e frameworks web que conheço**
 - Javascript
 - ReactJS
 - Typescript
@@ -22,7 +22,7 @@ Eu sei cozinhar um almoço gostoso sem usar coentro. PS: Coentro é ruim!
 
 I'm a Computer Science student and Junior Front-end web Developer. 🌐
 
-**My skills**
+**My web skills**
 - Javascript
 - ReactJS
 - Typescript
