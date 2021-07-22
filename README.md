@@ -6,7 +6,6 @@ Estudante de Ciência da Computação e desenvolvedor web Front-end 🌐
 - Javascript
 - Typescript
 - ReactJS
-- Redux
 - SASS
 
 <br>
@@ -19,5 +18,4 @@ Computer Science student and Junior Front-end web Developer. 🌐
 - Javascript
 - Typescript
 - ReactJS
-- Redux
 - SASS
