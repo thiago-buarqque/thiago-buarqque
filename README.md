@@ -5,6 +5,7 @@ Estudante de Ciência da Computação e desenvolvedor web Front-end 🌐
 **🔬 Linguagens e frameworks web que conheço**
 - Javascript
 - Typescript
+- Redux
 - ReactJS
 - SASS
 
@@ -17,5 +18,6 @@ Computer Science student and Junior Front-end web Developer. 🌐
 **🔬 Skills**
 - Javascript
 - Typescript
+- Redux
 - ReactJS
 - SASS
