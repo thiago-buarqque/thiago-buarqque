@@ -13,7 +13,9 @@ Artificial Intelligence and WEB development Enthusiast. I am currently a front-e
   - Typescript
 - ReactJS
   - Hooks
-  - Style components
+  - Styled components
+  - Styled icons
   - Redux
+  - Formik
 - Docker
 - Python3
