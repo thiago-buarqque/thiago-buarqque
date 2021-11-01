@@ -1,4 +1,4 @@
-## Hi there 👋 (English version below)
+## Hi there 👋
 
 Entusiasta de Inteligência Artificial e desenvolvimento WEB. Atualmente sou estagiário web front end e acabo de concluir um projeto de iniciação científica na Universidade Católica de Pernambuco na área de Machine Learning para classificação de requisitos de software não-funcionais o qual está sendo enviado para publicação em revista científica.
 
