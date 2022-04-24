@@ -1,21 +1,31 @@
 ## Hi there 👋
 
-Entusiasta de Inteligência Artificial e desenvolvimento WEB. Atualmente sou estagiário web front end e acabo de concluir um projeto de iniciação científica na Universidade Católica de Pernambuco na área de Machine Learning para classificação de requisitos de software não-funcionais o qual está sendo enviado para publicação em revista científica.
+Entusiasta de Inteligência Artificial e desenvolvimento WEB. Atualmente sou desenvolvedor de software full stack na Liferay.
 
 ### English 🍁
 
-Artificial Intelligence and WEB development Enthusiast. I am currently a front-end web developer intern and just finished a scientific initiation project at the Universidade Católica de Pernambuco, in the area of Machine Learning, that is being sent for a Scientific Journal.
+Artificial Intelligence and WEB development Enthusiast. I am currently a full stack software developer at Liferay.
 
 **🔬 Minhas habilidades/My skills**
-- CSS
-  - SASS
-- Javascript (ES6)
-  - Typescript
-- ReactJS
-  - Hooks
-  - Styled components
-  - Styled icons
-  - Redux
-  - Formik
+1. Web
+
+- SASS;
+- Bootstrap;
+- Typescript 4;
+- ReactJS v17/v18:
+  - Hooks;
+  - Router dom v5/v6
+  - Styled components/icons;
+  - Redux;
+  - Formik;
+
+2. Back-end
+(I'm new on back-end)
+- Java
+  - Gradle;
+  - OSGI
+
+3. Other skills
+- Git
 - Docker
-- Python3
+- Python3 (intermediate)
