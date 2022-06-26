@@ -1,13 +1,24 @@
 ## Hi there 👋
 
-Entusiasta de Inteligência Artificial e desenvolvimento WEB. Atualmente sou desenvolvedor de software full stack na Liferay.
+Entusiasta de Inteligência Artificial e desenvolvimento WEB. Atualmente sou desenvolvedor de software back-end na Liferay.
 
 ### English 🍁
 
-Artificial Intelligence and WEB development Enthusiast. I am currently a full stack software developer at Liferay.
+Artificial Intelligence and WEB development Enthusiast. I am currently a back-end software developer at Liferay.
 
 **🔬 Minhas habilidades/My skills**
-1. Web
+
+1. Back-end
+(I'm new on back-end)
+- Java
+  - Gradle;
+  - OSGI
+  - Rest API's
+- GraphQL
+- ElasticSearch
+- MySQL
+
+2. Web
 
 - SASS;
 - Bootstrap;
@@ -18,12 +29,6 @@ Artificial Intelligence and WEB development Enthusiast. I am currently a full st
   - Styled components/icons;
   - Redux;
   - Formik;
-
-2. Back-end
-(I'm new on back-end)
-- Java
-  - Gradle;
-  - OSGI
 
 3. Other skills
 - Git
