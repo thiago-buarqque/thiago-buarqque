@@ -13,7 +13,7 @@ Artificial Intelligence and WEB development Enthusiast. I am currently a back-en
 - Java
   - Gradle;
   - OSGI
-  - Rest API's
+- Rest API's
 - GraphQL
 - ElasticSearch
 - MySQL
@@ -22,7 +22,7 @@ Artificial Intelligence and WEB development Enthusiast. I am currently a back-en
 
 - SASS;
 - Bootstrap;
-- Typescript 4;
+- Typescript;
 - ReactJS v17/v18:
   - Hooks;
   - Router dom v5/v6
