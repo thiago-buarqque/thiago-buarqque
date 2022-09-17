@@ -1,36 +1,40 @@
-## Hi there 👋
+## Português :brazil:
 
-Entusiasta de Inteligência Artificial e desenvolvimento WEB. Atualmente sou desenvolvedor de software back-end na Liferay.
+#### Olá! 👋
 
-### English 🍁
+Entusiasta de Inteligência Artificial e desenvolvedor backend na Liferay.
 
-Artificial Intelligence and WEB development Enthusiast. I am currently a back-end software developer at Liferay.
+## English :canada:
 
-**🔬 Minhas habilidades/My skills**
+#### Hi there 👋
+
+Artificial Intelligence enthusiast and back-end software developer at Liferay.
+
+**🔬 My skills**
 
 1. Back-end
-(I'm new on back-end)
 - Java
-  - Gradle;
+  - Gradle
+  - JOOQ
+  - Spring Boot
   - OSGI
-- Rest API's
-- GraphQL
-- ElasticSearch
 - MySQL
+- Python3 (intermediate - I use usually for AI projects)
+- GraphQL (basics)
+- ElasticSearch (basics)
 
-2. Web
+2. Other skills
+- Git
+- Docker
+
+3. Web
 
 - SASS;
 - Bootstrap;
 - Typescript;
 - ReactJS v17/v18:
   - Hooks;
-  - Router dom v5/v6
+  - Router dom v5/v6;
   - Styled components/icons;
   - Redux;
-  - Formik;
-
-3. Other skills
-- Git
-- Docker
-- Python3 (intermediate)
+  - Formik.
