@@ -17,15 +17,15 @@ Artificial Intelligence enthusiast and back-end software developer at Liferay.
   - Gradle
   - JOOQ
   - Spring Boot
-  - OSGI
 - MySQL
 - Python3 (intermediate - I use usually for AI projects)
-- GraphQL (basics)
+- GraphQL
 - ElasticSearch (basics)
 
 2. Other skills
 - Git
 - Docker
+- BigQuery (Google Cloud Platform)
 
 3. Web
 
