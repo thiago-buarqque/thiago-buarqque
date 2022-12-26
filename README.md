@@ -1,10 +1,4 @@
-## Português :brazil:
-
-#### Olá! 👋
-
-Entusiasta de Inteligência Artificial e desenvolvedor backend na Liferay.
-
-## English :canada:
+## English :canada: 🇧🇷
 
 #### Hi there 👋
 
