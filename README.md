@@ -1,6 +1,4 @@
-## English :canada: 🇧🇷
-
-#### Hi there 👋
+#### Hi there 👋 :canada: 🇧🇷
 
 Artificial Intelligence enthusiast and back-end software developer at Liferay.
 
