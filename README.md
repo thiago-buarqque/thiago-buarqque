@@ -19,8 +19,7 @@ Artificial Intelligence enthusiast and back-end software developer at Liferay.
   - Spring Boot
 - MySQL
 - Python3 (intermediate - I use usually for AI projects)
-- GraphQL
-- ElasticSearch (basics)
+- GraphQL (basics)
 
 2. Other skills
 - Git
