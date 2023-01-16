@@ -1,6 +1,6 @@
 #### Hi there 👋 :canada: 🇧🇷
 
-Artificial Intelligence enthusiast and back-end software developer at Liferay.
+Back-end software developer at Liferay and Artificial Intelligence enthusiast.
 
 **🔬 My skills**
 
@@ -8,7 +8,8 @@ Artificial Intelligence enthusiast and back-end software developer at Liferay.
 - Java
   - Gradle
   - JOOQ
-  - Spring Boot
+  - Spring Framework
+  - Hibernate
 - MySQL
 - Python3 (intermediate - I use usually for AI projects)
 - GraphQL (basics)
