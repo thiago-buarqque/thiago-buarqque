@@ -2,19 +2,23 @@
 
 Back-end software developer at Liferay and Artificial Intelligence enthusiast.
 
-**🔬 My skills**
+**🔬 Main skills**
 
 - Java
   - Gradle;
+  - OSGI;
   - JOOQ;
-  - Spring Framework;
+  - Spring Boot;
   - Hibernate;
-  - GraphQL (basics).
-- MySQL;
-- BigQuery (Google Cloud Platform);
-- Python3 (intermediate - I use usually for AI projects);
+- MySQL5+;
+- Python3;
+- Rust (intermediate, still learning)
+
+**Additional skills**
+- Linux;
 - Git;
 - Docker;
+- BigQuery (Google Cloud Platform);
 
 <details>
   <summary>Web skills</summary>
@@ -26,6 +30,5 @@ Back-end software developer at Liferay and Artificial Intelligence enthusiast.
     - Router dom v5/v6;
     - Styled components/icons;
     - Redux;
-    - Formik.
 
 </details>
