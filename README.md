@@ -1,6 +1,11 @@
 #### Hi there 👋 :canada: 🇧🇷
 
-Back-end software developer at Liferay and Artificial Intelligence enthusiast.
+Java back-end software developer at Liferay and Artificial Intelligence enthusiast.
+
+### Main projects
+1. [RustMate: A Chess engine implemented in Rust](https://github.com/thiago-buarqque/RustMate_Rust-Chess-Engine);
+2. [Feedforward Neural Network (FNN) from Scratch (Python)](https://github.com/thiago-buarqque/MLP-from-scratch);
+3. [Analytics: an analytics backend application in Java + Spring Framework](https://github.com/thiago-buarqque/backend-java/tree/main/analytics).
 
 **🔬 Main skills**
 
@@ -22,13 +27,9 @@ Back-end software developer at Liferay and Artificial Intelligence enthusiast.
 
 <details>
   <summary>Web skills</summary>
-  
+  - HTML5;
   - SASS;
   - Typescript;
-  - ReactJS v17/v18:
-    - Hooks;
-    - Router dom v5/v6;
-    - Styled components/icons;
-    - Redux;
+  - ReactJS v17/v18;
 
 </details>
