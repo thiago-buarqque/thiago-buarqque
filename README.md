@@ -27,6 +27,7 @@ Java back-end software developer at Liferay and Artificial Intelligence enthusia
 
 <details>
   <summary>Web skills</summary>
+  
   - HTML5;
   - SASS;
   - Typescript;
