@@ -1,4 +1,4 @@
-#### Hi there 👋 :canada: 🇧🇷
+#### Hi there 👋 EN / PT-BR
 
 Java back-end software developer at Liferay and Artificial Intelligence enthusiast.
 
@@ -17,13 +17,13 @@ Java back-end software developer at Liferay and Artificial Intelligence enthusia
   - Hibernate;
 - MySQL5+;
 - Python3;
-- Rust (intermediate, still learning)
+- Rust (intermediate, still learning).
 
 **Additional skills**
 - Linux;
 - Git;
 - Docker;
-- BigQuery (Google Cloud Platform);
+- BigQuery (Google Cloud Platform).
 
 <details>
   <summary>Web skills</summary>
