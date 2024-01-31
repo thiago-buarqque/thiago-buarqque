@@ -4,7 +4,7 @@ Java back-end software developer at Liferay and Artificial Intelligence enthusia
 
 ### Main projects
 1. [RustMate: A Chess engine implemented in Rust](https://github.com/thiago-buarqque/RustMate_Rust-Chess-Engine);
-2. [Feedforward Neural Network (FNN) from Scratch (Python)](https://github.com/thiago-buarqque/MLP-from-scratch);
+2. [NeuraRust: Neural Networks implemented in Rust](https://github.com/thiago-buarqque/NeuraRust);
 3. [Analytics: an analytics backend application in Java + Spring Framework](https://github.com/thiago-buarqque/backend-java/tree/main/analytics).
 
 **🔬 Main skills**
