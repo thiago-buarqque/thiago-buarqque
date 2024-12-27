@@ -1,6 +1,6 @@
-#### Hi there 👋 EN / PT-BR
+#### Hello there 👋
 
-Java back-end software developer at Liferay and Artificial Intelligence enthusiast.
+Back-end software developer at Liferay and Artificial Intelligence enthusiast.
 
 ### Main projects
 1. [RustMate: A Chess engine implemented in Rust](https://github.com/thiago-buarqque/RustMate_Rust-Chess-Engine);
@@ -15,6 +15,7 @@ Java back-end software developer at Liferay and Artificial Intelligence enthusia
   - JOOQ;
   - Spring Boot;
   - Hibernate;
+  - JUnit
 - MySQL5+;
 - Python3;
 - Rust (intermediate, still learning).
@@ -24,13 +25,7 @@ Java back-end software developer at Liferay and Artificial Intelligence enthusia
 - Git;
 - Docker;
 - BigQuery (Google Cloud Platform).
-
-<details>
-  <summary>Web skills</summary>
-  
-  - HTML5;
-  - SASS;
-  - Typescript;
-  - ReactJS v17/v18;
-
-</details>
+- HTML5;
+- SASS;
+- Typescript;
+- ReactJS v17/v18;
