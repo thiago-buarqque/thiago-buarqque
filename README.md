@@ -16,9 +16,9 @@ Back-end software developer at Liferay and Artificial Intelligence enthusiast.
   - Spring Boot;
   - Hibernate;
   - JUnit
+- Rust;
 - MySQL5+;
-- Python3;
-- Rust (intermediate, still learning).
+- Python3;.
 
 **Additional skills**
 - Linux;
